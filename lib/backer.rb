@@ -5,3 +5,4 @@ attr_reader :name
     @name = name
     @backed_projects = []
   end
+end
